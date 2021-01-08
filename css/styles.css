@@ -1,0 +1,22 @@
+
+            body {
+                background-color: #fddbc6  /*  #f7d1ba;*/
+                }
+  
+            h1 {
+                color:  #d49a89;
+                }
+            h2 {
+            color:  #d49a89;
+            }
+            h3 {
+            color:  #d49a89;
+            }
+            
+            hr {
+                height: 0px;
+                border-style: dotted none none;
+                border-width: 3px;
+                border-color: #f4f4f4;
+                width: 6%;
+            }
